@@ -3,5 +3,4 @@ kind: ConfigMap
 metadata:
   name: game-demo
 data:
-  # property-like keys; each key maps to a simple value
   player_initial_lives: "3"
